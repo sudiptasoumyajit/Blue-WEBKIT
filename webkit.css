@@ -1,0 +1,29 @@
+::-webkit-file-upload-button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 15px;
+    font-family: monospace;
+}
+::-webkit-input-placeholder{
+    font-family: monospace;
+    padding: 15px;
+}
+::-webkit-scrollbar{
+    background-color: white;
+}
+::-webkit-scrollbar-button{
+    color: blue;
+}
+::-webkit-scrollbar-thumb{
+    background-color: blue;
+}
+::-webkit-textfield-decoration-container{
+    border: navy;
+    padding: 15px;
+}
+::-webkit-inner-spin-button{
+    border-radius: 20px;
+    color: navy;
+    background-color: navy;
+}
